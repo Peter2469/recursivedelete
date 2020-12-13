@@ -1,7 +1,6 @@
 # Recursive Delete
 This simple python script allows you to delete multiple folders if it has the same name but differentiated by a number, this allows for quick and easy mass deletion!
 
-This script was created in Python as I had a small case of thousands of folders with the same name but was all differentiated by a number.
 This script will allow you to hopefully delete all the pesky folders ***in the same directory the script is in***.
 
 ## Please Note
